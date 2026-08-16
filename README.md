@@ -8,6 +8,8 @@ why another one? crt.sh is really slow. there isn't a good alternative command l
 
 Install dependencies: `pip3 install -r ./requirements.txt`
 
+API key of sslmate is optional, and will automatically retrieve from environment variable `SSLMATE_CTLOG_APIKEY`.
+
 Run with param:
 
 ```
